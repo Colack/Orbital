@@ -1,0 +1,17 @@
+{
+  "name": "Orbital",
+  "version": "1.0.0",
+  "description": "Discord.js Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colack",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
