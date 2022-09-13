@@ -1,0 +1,9 @@
+// Sends some basic Text to whatever channel the bot is in at the moment; IE: input: /ping || output: pong! //
+
+module.exports={
+    name:'name',
+    description: "command description",
+    execute(message, args){
+        message.channel.send('Text goes here');
+        }
+      };
